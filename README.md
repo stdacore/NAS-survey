@@ -20,23 +20,23 @@ https://arxiv.org/abs/1806.09055
 https://arxiv.org/abs/1807.11626
 * Path-Level Network Transformation for Efficient Architecture Search (Cai et al. 2018; accepted at ICML’18) <br>
 https://arxiv.org/abs/1806.02639
-* Neural Architecture Optimization (Luo et al. 2018; accepted at NeurIPS’18) <br>
+* **Neural Architecture Optimization (Luo et al. 2018; accepted at NeurIPS’18) <br>**
 https://arxiv.org/abs/1808.07233
-* InstaNAS: Instance-aware Neural Architecture Search (Cheng et al. 2018) <br>
+* **InstaNAS: Instance-aware Neural Architecture Search (Cheng et al. 2018) <br>**
 https://arxiv.org/abs/1811.10201
-* Mixed Precision Quantization of ConvNets via Differentiable Neural Architecture Search (Wu et al. 2018) <br>
+* **Mixed Precision Quantization of ConvNets via Differentiable Neural Architecture Search (Wu et al. 2018) <br>**
 https://arxiv.org/abs/1812.00090
 * ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware (Cai et al. 2018; accepted at ICLR’19) <br>
 https://arxiv.org/abs/1812.00332
 * FBNet: Hardware-Aware Efficient ConvNet Designvia Differentiable Neural Architecture Search (Wu et al. 2018; accepted at CVPR’19)  <br>
 https://arxiv.org/abs/1812.03443
-* IRLAS: Inverse Reinforcement Learning for Architecture Search (Guo et al. 2018; accepted at CVPR’19)  <br>
+* **IRLAS: Inverse Reinforcement Learning for Architecture Search (Guo et al. 2018; accepted at CVPR’19)  <br>**
 https://arxiv.org/abs/1812.05285
 * SNAS: Stochastic Neural Architecture Search (Xie et al. 2018; accepted at ICLR’19)  <br>
 https://arxiv.org/abs/1812.09926
 * Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation (Liu et al. 2019; accepted at CVPR’19)  <br>
 https://arxiv.org/abs/1901.02985
-* Random Search and Reproducibility for Neural Architecture Search (Li and Talwalkar 2019) <br>
+* **Random Search and Reproducibility for Neural Architecture Search (Li and Talwalkar 2019) <br>**
 https://arxiv.org/abs/1902.07638
 * Single Path One-Shot Neural Architecture Search with Uniform Sampling (Guo et al. 2019) <br>
 https://arxiv.org/abs/1904.00420
@@ -48,14 +48,18 @@ https://arxiv.org/abs/1904.12760
 https://github.com/D-X-Y/GDAS
 * Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search (Akimoto et al. 2019; accepted at ICML’19) <br>
 https://arxiv.org/abs/1905.08537
-* Transfer NAS: Knowledge Transfer between Search Spaces with Transformer Agents (Borsos et al. 2019) <br>
+* **Transfer NAS: Knowledge Transfer between Search Spaces with Transformer Agents (Borsos et al. 2019) <br>** 
 https://arxiv.org/abs/1906.08102
 * FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search (Chu et al. 2019) <br>
 https://arxiv.org/abs/1907.01845
 * PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search (Xu et al. 2019) <br>
 https://arxiv.org/abs/1907.05737
-* SCARLET-NAS: Bridging the gap Between Scalability and Fairness in Neural Architecture Search (Chu et al. 2019) <br>
+* **SCARLET-NAS: Bridging the gap Between Scalability and Fairness in Neural Architecture Search (Chu et al. 2019)<br>**
 https://arxiv.org/abs/1908.06022
+* **HM-NAS: Efficient Neural Architecture Search via Hierarchical Masking (Yan et al. 2019; accepted at ICCV’19 Neural Architects Workshop)<br>**
+https://arxiv.org/abs/1909.00122
+* **Rethinking the Number of Channels for Convolutional Neural Networks (Zhu et al. 2019)<br>**
+https://arxiv.org/abs/1909.01861
 * DARTS+: Improved Differentiable Architecture Search with Early Stopping (Liang et al. 2019) <br>
 https://arxiv.org/abs/1909.06035
 
