@@ -31,6 +31,10 @@ https://openreview.net/forum?id=BJe_z1HFPr
   * Resizable as Architecture Search (Resizable-NAS), Resizable as Data Augmentation (Resizable-Aug),  Adaptive Resizable Network (Resizable-Adapt)
 * BETANAS: BALANCED TRAINING AND SELECTIVE DROP FOR NEURAL ARCHITECTURE SEARCH (under review at ICLR2020)<br>
 https://openreview.net/forum?id=HyeEIyBtvr
+* UNDERSTANDING AND ROBUSTIFYING DIFFERENTIABLE ARCHITECTURE SEARCH (under review at ICLR2020)<br>
+https://openreview.net/forum?id=H1gDNyrKDS
+  * eigenspectrum of the Hessian of the validation loss with respect to the architectural parameters --> smaller Hessian spectrum, better generalization properties
+  * early stopping
 * DARTS+: Improved Differentiable Architecture Search with Early Stopping (Liang et al. 2019) <br>
 https://arxiv.org/abs/1909.06035
   * early stopping
@@ -76,6 +80,10 @@ https://arxiv.org/abs/1812.05285
 https://arxiv.org/abs/1812.03443
 * ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware (Cai et al. 2018; accepted at ICLR’19) <br>
 https://arxiv.org/abs/1812.00332
+  * the output feature maps of all N paths are calculated and stored in the memory, while training a compact model only involves one path (different from one-shot, darts)
+  * binary gate, latency, latency prediction model
+  * search space: MBC {3,5,7} {3,6}, skip
+  * RL, Gradient
 * Mixed Precision Quantization of ConvNets via Differentiable Neural Architecture Search (Wu et al. 2018) <br>
 https://arxiv.org/abs/1812.00090
 * InstaNAS: Instance-aware Neural Architecture Search (Cheng et al. 2018) <br>
